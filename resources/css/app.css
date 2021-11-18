@@ -1,0 +1,27 @@
+.body {
+    background-color: #cbd5e0;
+}
+.form {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+.form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.form form input {
+    width: 40%;
+    margin: 10px;
+    font-size: x-large;
+    border: 1px solid #718096;
+
+}
+.form form textarea {
+    width: 40%;
+    margin: 10px;
+    font-size: x-large;
+    border: 1px solid #718096;
+}
